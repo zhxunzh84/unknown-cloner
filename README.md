@@ -1,5 +1,7 @@
-## To Whoever Cloned This Repository
-**An open message to automated scanners, crawlers, and unknown visitors.
+
+# To Whoever Cloned This Repository
+
+> **An open message to automated scanners, crawlers, and unknown visitors.**
 
 I don't know who you are.
 
@@ -9,22 +11,28 @@ Maybe you're indexing public code. Maybe you're training a model. Maybe you're l
 
 Whatever your purpose, you've found a repository containing nothing but this message.
 
-##A Note on Visibility
+---
 
-**Public does not mean unnoticed.
+## A Note on Visibility
+
+### Public does not mean unnoticed.
 
 Repository activity may leave traces in platform-level traffic statistics and security monitoring systems.
 
 I may not know your identity, but I can observe patterns of activity.
 
-**You are not necessarily invisible just because you are automated.
+**You are not necessarily invisible just because you are automated.**
 
-##One Question
+---
+
+## One Question
 
 If you're a legitimate researcher, crawler, or automated service, what brought you here?
 
-And if you're scanning indiscriminately, was this README worth the clone?
+And if you're scanning indiscriminately, **was this README worth the clone?**
 
-No secrets. No code. No dependencies. Just a message.
+---
 
-**The repository owner
+*No secrets. No code. No dependencies. Just a message.*
+
+**The repository owner**
